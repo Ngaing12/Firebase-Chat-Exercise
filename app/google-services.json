@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "914114063017",
+    "firebase_url": "https://chatdemo-64b31.firebaseio.com",
+    "project_id": "chatdemo-64b31",
+    "storage_bucket": "chatdemo-64b31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914114063017:android:ef826b9aad9815f0",
+        "android_client_info": {
+          "package_name": "com.example.quanto.chatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914114063017-0s2jap6946k5l5a0i4ie217uv76kjdlf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quanto.chatdemo",
+            "certificate_hash": "f24a842e44983f70f3c1bd6795cf8ad3eb2595e4"
+          }
+        },
+        {
+          "client_id": "914114063017-msg17dm0jr5g9quic494lr2lm9jt07ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUMn747CCiioi8fb-c1aZb0tYNMH5S77Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914114063017-msg17dm0jr5g9quic494lr2lm9jt07ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
